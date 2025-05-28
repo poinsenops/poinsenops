@@ -1,6 +1,5 @@
 # Hi, I’m @poinsenops
--  I’m interested in Gaming, Web Development and anime 
--  I’m looking to collaborate on FrontEnd development projects
+-  I’m interested in Web Development, Gaming and anime 
 
 -  Pronouns: He/Him
 -  Fun fact: More people die because off coconuts falling on their head then shark attacks in a year.
